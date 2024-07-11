@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **React and NodeJs**
 
-- 👨‍💻 I’m looking to collaborate on [Code Colab](https://drive.google.com/file/d/16RUYhDjexnCHgClzjdWTfZORuFXh_oif/view?usp=sharing)
-
 - 🤝 I’m contributing to [EmbeddedChat](https://github.com/Kamlesh72/EmbeddedChat)
 
-- 📝 I regularly give contests on [https://codeforces.com/profile/kamlesh_72](https://codeforces.com/profile/kamlesh_72)
+- 📝 I give contests on [https://codeforces.com/profile/kamlesh_72](https://codeforces.com/profile/kamlesh_72)
 
 - 📫 How to reach me **kamleshpatel12328@gmail.com**
 
